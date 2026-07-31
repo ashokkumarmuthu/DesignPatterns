@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HRu4pj0mxgA=",
+  "success": true,
+  "projectFilePath": "/Users/ashokkumar/Desktop/Dotnet/DotnetPractice/DesignPatterns/DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "/Users/ashokkumar/.nuget/packages/microsoft.netcore.app.ref/8.0.28/microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "/Users/ashokkumar/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.28/microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "/Users/ashokkumar/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.28/microsoft.netcore.app.host.osx-arm64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
